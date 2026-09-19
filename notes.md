@@ -156,6 +156,7 @@ $C(I)$ should be interpreted as coordination pressure arising from infrastructur
 | Low        | Activity is distributed across a relatively diverse infrastructure set      |
 | Medium     | Material activity is concentrated across several infrastructure operators   |
 | High       | Activity is strongly concentrated around one or a small number of operators |
+
 Importantly: Concentration does not imply coordination.
 
 A high $C(I)$ score indicates that the infrastructure structure _permits greater potential coordination or dependency_. It does not demonstrate that operators are actually coordinating, colluding, or exercising control over the stablecoin. This is important because the ultimate objective is not to measure concentration for its own sake. $C(I)$ is one component of the broader revenue-defensibility framework.
@@ -191,6 +192,7 @@ Under the baseline specification, the current $C(I)$ ranking is:
 | USDE           | 0.5515 |
 | USDT           | 0.4876 |
 | USDC           | 0.3486 |
+
 The stress testing shows that USDH remains the highest-C(I) stablecoin across every tested specification, while the magnitude of C(I) varied depending on the weighting scheme. The relative ordering of the five stablecoins remains unchanged across these specifications.
 
 ## **9. Stress-Test Results**
