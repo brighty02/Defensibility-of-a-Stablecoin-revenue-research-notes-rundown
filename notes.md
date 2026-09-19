@@ -226,3 +226,8 @@ This suggests that the broad ordering observed in the current sample is more sta
 - **Cross-Infrastructure dependence**: Operators may share ownership, liquidity, governance, or some technical dependencies that are not captured by simple operator aggregation
 - **Temporal dynamics**: Current work represents a point-in-time structure and has not yet established how infrastructural correlation evolves through market cycles and events
 - **Weight specification**: Although the current ordering is stable across tested weight specifications, absolute c(I) values remain sensitive to the weighting scheme.
+
+
+### Potential Application 
+
+The longer-term objective is to determine whether C(I), alongside the other components of the broader defensibility framework, can become a standardized analytical primitive for stablecoin research. If sufficiently robust, the framework could potentially be incorporated into DeFiLlama’s existing stablecoin analytics and eventually exposed through Llama AI, allowing users to query not only the size and revenue of a stablecoin’s economic base, but also the structural properties that may affect the defensibility of that revenue. 
